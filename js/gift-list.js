@@ -144,6 +144,12 @@
       code: "1jjroDa",
       img: "images/products/fogao.jpg",
     },
+    {
+      title: "Liquidificador",
+      price: 260,
+      code: "17kZKdY",
+      img: "images/products/liquidificador.jpg",
+    },
   ];
 
   const giftListContainer = $("#gift-list .row");
