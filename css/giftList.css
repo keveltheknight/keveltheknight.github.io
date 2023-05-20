@@ -12,6 +12,7 @@
   }
   
   .gift-list .gift-list__descriptions {
+    font-size: 40px;
     font-family: "Sacramento", Arial, serif;
     margin-top: 30px;
     margin-bottom: 50px;
