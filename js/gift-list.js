@@ -221,6 +221,12 @@
       code: "n9Bcfcm",
       img: "images/products/colchaDeCama.jpeg",
     },
+    {
+      title: "Garrafa de Café Inox",
+      price: 135,
+      code: "n45cfcm",
+      img: "images/products/garrafa-de-cafe.jpg",
+    },
   ];
 
   const giftListContainer = $("#gift-list .row");
