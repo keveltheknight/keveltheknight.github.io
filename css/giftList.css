@@ -6,12 +6,13 @@
   }
   
   .gift-list h2 {
-    font-family: "Tired Panda";
+    font-family: "Sacramento", Arial, serif;
     font-size: 60px;
     color: #653780;
   }
   
   .gift-list .gift-list__descriptions {
+    font-family: "Sacramento", Arial, serif;
     margin-top: 30px;
     margin-bottom: 50px;
     line-height: 27px;
