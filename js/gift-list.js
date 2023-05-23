@@ -227,6 +227,12 @@
       code: "2yyTrX6",
       img: "images/products/garrafa-de-cafe.jpg",
     },
+    {
+      title: "Air Fryer",
+      price: 449,
+      code: "25FPDuq",
+      img: "images/products/airFryer.jpeg",
+    },
   ];
 
   const giftListContainer = $("#gift-list .row");
