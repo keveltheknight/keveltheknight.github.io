@@ -233,6 +233,12 @@
       code: "25FPDuq",
       img: "images/products/airFryer.jpeg",
     },
+    {
+      title: "Cozinha compacta de canto",
+      price: 750,
+      code: "1MWj3EA",
+      img: "images/products/cozinhaCompacta.jpeg",
+    },
   ];
 
   const giftListContainer = $("#gift-list .row");
