@@ -2,13 +2,13 @@
   const products = [
     {
       title: "Microondas",
-      price: 850,
+      price: 600,
       code: "1UCnSWK",
       img: "images/products/microondas.jpeg",
     },
     {
       title: "Rack de sala",
-      price: 499,
+      price: 789,
       code: "2CwJvhM",
       img: "images/products/rack.jpeg",
     },
@@ -104,7 +104,7 @@
     },
     {
       title: "Colcha de cama",
-      price: 159,
+      price: 170,
       code: "21JGAL9",
       img: "images/products/colcha.jpg",
     },
@@ -122,7 +122,7 @@
     },
     {
       title: "Garrafa de café inox",
-      price: 90,
+      price: 135,
       code: "2Mkfs1J",
       img: "images/products/garrafa-de-cafe.jpg",
     },
@@ -146,7 +146,7 @@
     },
     {
       title: "Liquidificador",
-      price: 260,
+      price: 140,
       code: "17kZKdY",
       img: "images/products/liquidificador.jpg",
     },
